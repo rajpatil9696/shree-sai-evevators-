@@ -7,12 +7,11 @@ export default function Offices() {
           <article className="office-card office-card--hq">
             <span className="office-card__tag">Head Office</span>
             <h3>Baramati</h3>
-            <p>Chinchkar Chowk, Shree Business Class Building, TC College Rd, Baramati Rural, Baramati, Maharashtra 413102</p>
+            <p>Shop no 18, Shree Business Class Building, TC College Rd, Pragati Nagar, Baramati, Maharashtra 413102</p>
              <p className="office-contact">
               Kiran Sable Patil — <a href="tel:+919665240518">+91 96652 40518</a><br />
-              Yash Gulumkar — <a href="tel:+919834562220">+91 98345 62220</a>
-              Office Contact:<a href="tel:+91 84858 73830">+91 84858 73830</a>
-              {/* Office Contact:<a href="tel:+91 84858 73830">+91 84858 73830</a> */}
+              Yash Gulumkar — <a href="tel:+919834562220">+91 98345 62220</a><br />
+              Office Contact- <a href="tel:+91 84858 73830">+91 84858 73830</a>
             </p>
           </article>
           <article className="office-card">

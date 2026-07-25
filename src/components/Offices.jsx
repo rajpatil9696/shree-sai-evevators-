@@ -11,6 +11,8 @@ export default function Offices() {
              <p className="office-contact">
               Kiran Sable Patil — <a href="tel:+919665240518">+91 96652 40518</a><br />
               Yash Gulumkar — <a href="tel:+919834562220">+91 98345 62220</a>
+              Office Contact:<a href="tel:+91 84858 73830">+91 84858 73830</a>
+              {/* Office Contact:<a href="tel:+91 84858 73830">+91 84858 73830</a> */}
             </p>
           </article>
           <article className="office-card">

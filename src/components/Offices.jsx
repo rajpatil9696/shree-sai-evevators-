@@ -8,7 +8,10 @@ export default function Offices() {
             <span className="office-card__tag">Head Office</span>
             <h3>Baramati</h3>
             <p>Chinchkar Chowk, Shree Business Class Building, TC College Rd, Baramati Rural, Baramati, Maharashtra 413102</p>
-            <a href="tel:+919834562220">+91 98345 62220</a>
+             <p className="office-contact">
+              Kiran Sable Patil — <a href="tel:+919665240518">+91 96652 40518</a><br />
+              Yash Gulumkar — <a href="tel:+919834562220">+91 98345 62220</a>
+            </p>
           </article>
           <article className="office-card">
             <span className="office-card__tag">Branch Office</span>
@@ -29,7 +32,10 @@ export default function Offices() {
             <span className="office-card__tag">Regional Office</span>
             <h3>Thane</h3>
             <p>Room no 405, shree ekveera apratment lokmanya nagar, pada no 2 yashodhan nagar, Thane west, thane 400606</p>
-            <p className="office-contact">Ashok Karad — <a href="tel:+919588483355">+91 95884 83355</a></p>
+             <p className="office-contact">
+              Kiran Sable Patil — <a href="tel:+919665240518">+91 96652 40518</a><br />
+              Yash Gulumkar — <a href="tel:+919834562220">+91 98345 62220</a>
+            </p>
           </article>
           <article className="office-card">
             <span className="office-card__tag">Sales</span>

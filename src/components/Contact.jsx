@@ -61,7 +61,7 @@ export default function Contact() {
       <div className="container contact__grid">
         <div className="contact__info">
           <h2 className="section-title section-title--light">Tell us about your building</h2>
-          <p className="section-sub section-sub--left">
+          <p className="section-sub section-sub--left" style={{ color: '#ffffff' }}>
             Share the number of floors, expected passenger load and whether you have a machine
             room, and we'll get back with a site-visit slot.
           </p>

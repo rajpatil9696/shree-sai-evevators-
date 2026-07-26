@@ -23,8 +23,8 @@ export default function Footer() {
         </div>
       </div>
       <div className="container footer__bottom">
-        <p>&copy; <span id="year">{year}</span> Shree Sai Elevators. All rights reserved.</p>
-        <p>shreesaielevators.org</p>
+        <p style={{ color: '#ffffff' }}>&copy; <span id="year">{year}</span> Shree Sai Elevators. All rights reserved.</p>
+        <p style={{ color: '#ffffff' }}>shreesaielevators.in</p>
       </div>
     </footer>
   )

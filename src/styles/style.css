@@ -336,10 +336,17 @@ section{padding:96px 0;}
   border-color:var(--gold);outline:none;background:var(--white);
 }
 .form-row textarea{resize:vertical;}
+.form-row input.field--invalid,.form-row select.field--invalid,.form-row textarea.field--invalid{
+  border-color:var(--red);
+}
+.field-error{display:block;color:var(--red);font-size:12.5px;margin-top:6px;}
 .hp-field{position:absolute;left:-9999px;width:1px;height:1px;overflow:hidden;}
 .form-status{margin-top:14px;font-size:14px;min-height:20px;}
 .form-status.success{color:#1a7f37;}
 .form-status.error{color:var(--red);}
+.whatsapp-followup{margin-top:10px;}
+.whatsapp-followup p{font-size:13.5px;color:var(--ink);margin-bottom:8px;}
+.whatsapp-followup__buttons{display:flex;flex-wrap:wrap;gap:10px;}
 
 @media(max-width:900px){
   .contact__grid{grid-template-columns:1fr;}

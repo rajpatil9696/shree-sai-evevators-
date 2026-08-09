@@ -5,7 +5,7 @@ export default function Footer() {
     <footer className="site-footer">
       <div className="container footer__inner">
         <div className="footer__brand">
-          <img src="/assets/images/logo.png" alt="Shree Sai Elevators logo" style={{ width: '400px', height: 'auto' }} />
+          <img src="/assets/images/logo.png" alt="Shree Sai Elevators logo" style={{ width: '400px', height: 'auto', position: 'relative',top: '-120px' }} />
         </div>
         <div className="footer__links">
           <h2 style={{ color: '#ffffff' }}>Explore</h2>

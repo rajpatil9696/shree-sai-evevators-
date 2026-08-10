@@ -25,7 +25,7 @@ export default function Hero() {
         <div className="hero__stats">
           <div><span className="stat-num">3–20</span><span className="stat-label">passenger capacity range</span></div>
           <div><span className="stat-num">30%</span><span className="stat-label">energy saved, gearless drives</span></div>
-          <div><span className="stat-num">3</span><span className="stat-label">regional offices in Maharashtra</span></div>
+          <div><span className="stat-num">500+</span><span className="stat-label"></span>Elevators Installed</div>
         </div>
       </div>
     </section>

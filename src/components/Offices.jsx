@@ -9,9 +9,9 @@ export default function Offices() {
             <h3>Baramati</h3>
             <p>Shop no 18, Shree Business Class Building, TC College Rd, Pragati Nagar, Baramati, Maharashtra 413102</p>
              <p className="office-contact">
-              Kiran Sable Patil — <a href="tel:+919665240518">+91 96652 40518</a><br />
-              Yash Gulumkar — <a href="tel:+919834562220">+91 98345 62220</a><br />
-              Office Contact- <a href="tel:+91 84858 73830">+91 84858 73830</a>
+              Kiran Sable Patil:<a href="tel:+919665240518">+91 96652 40518</a><br />
+              Yash Gulumkar:<a href="tel:+919834562220">+91 98345 62220</a><br />
+              Office Contact:<a href="tel:+91 84858 73830">+91 84858 73830</a>
             </p>
           </article>
           <article className="office-card">
@@ -19,8 +19,8 @@ export default function Offices() {
             <h3>Pune</h3>
             <p>Gagan Avincia, Office No. 401, Fourth Floor, Kharadi, Pune</p>
             <p className="office-contact">
-              Kiran Sable Patil — <a href="tel:+919665240518">+91 96652 40518</a><br />
-              Yash Gulumkar — <a href="tel:+919834562220">+91 98345 62220</a>
+              Kiran Sable Patil:<a href="tel:+919665240518">+91 96652 40518</a><br />
+              Yash Gulumkar:<a href="tel:+919834562220">+91 98345 62220</a>
             </p>
           </article>
           <article className="office-card">

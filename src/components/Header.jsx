@@ -17,7 +17,7 @@ export default function Header() {
     <header className="site-header" id="siteHeader">
       <div className="container header__inner">
         <a href="#home" className="brand">
-          <img src="/assets/images/logo.png" alt="Shree Sai Elevators logo" className="brand__logo" />
+          <img src="/assets/images/logo3.png" alt="Shree Sai Elevators logo" className="brand__logo" />
         </a>
         <nav className={`main-nav${isOpen ? ' is-open' : ''}`} id="mainNav">
           {NAV_LINKS.map((link) => (

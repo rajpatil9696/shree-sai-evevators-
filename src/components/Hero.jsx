@@ -2,7 +2,7 @@ export default function Hero() {
   return (
     <section className="hero" id="home">
       <div className="hero__media">
-        <img src="/assets/images/elevator-bank.jpg" alt="Shree Sai Elevators gold-finish elevator bank" loading="eager" />
+        <img src="/assets/images/master image.png" alt="Shree Sai Elevators gold-finish elevator bank" loading="eager" />
         <div className="hero__scrim"></div>
       </div>
       <div className="container hero__content">

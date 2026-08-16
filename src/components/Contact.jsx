@@ -296,8 +296,8 @@ export default function Contact() {
                 <strong>Address</strong>
 
                 <p>
-                  Chinchkar Chowk, Shree Business Class Building,
-                  TC College Rd, Baramati Rural, Baramati,
+                  Chinchkar Chowk,Shop No.18, Shree Business Class Building,
+                  TC College Rd, Baramati,
                   Maharashtra 413102
                 </p>
               </div>
